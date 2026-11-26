@@ -42,6 +42,8 @@ Teklifim çok basit:
 ✅ Beğenirseniz: 16.000 TL
 ❌ Beğenmezseniz: hiçbir ödeme yok, hiçbir yükümlülük yok.
 
+(Not: Alan adı ve hosting ücretleri 16.000 TL'ye dahil değildir; dilerseniz kurulumunda yardımcı oluruz.)
+
 Metinleri, fotoğrafları ve renkleri sizin isteğinize göre düzenleriz. İncelemek ister misiniz?
 
 [Adınız]
@@ -66,6 +68,8 @@ Sitede neler var:
 Teklifim çok basit:
 ✅ Beğenirseniz: 16.000 TL
 ❌ Beğenmezseniz: hiçbir ödeme yok, hiçbir yükümlülük yok.
+
+(Not: Alan adı ve hosting ücretleri 16.000 TL'ye dahil değildir; dilerseniz kurulumunda yardımcı oluruz.)
 
 Metinleri, fotoğrafları ve renkleri sizin isteğinize göre düzenleriz. İncelemek ister misiniz?
 
@@ -92,6 +96,8 @@ Teklifim çok basit:
 ✅ Beğenirseniz: 16.000 TL
 ❌ Beğenmezseniz: hiçbir ödeme yok, hiçbir yükümlülük yok.
 
+(Not: Alan adı ve hosting ücretleri 16.000 TL'ye dahil değildir; dilerseniz kurulumunda yardımcı oluruz.)
+
 Metinleri, fotoğrafları ve renkleri sizin isteğinize göre düzenleriz. İncelemek ister misiniz?
 
 [Adınız]
@@ -116,6 +122,8 @@ Sitede neler var:
 Teklifim çok basit:
 ✅ Beğenirseniz: 16.000 TL
 ❌ Beğenmezseniz: hiçbir ödeme yok, hiçbir yükümlülük yok.
+
+(Not: Alan adı ve hosting ücretleri 16.000 TL'ye dahil değildir; dilerseniz kurulumunda yardımcı oluruz.)
 
 Metinleri, fotoğrafları ve renkleri sizin isteğinize göre düzenleriz. İncelemek ister misiniz?
 
@@ -142,6 +150,8 @@ Teklifim çok basit:
 ✅ Beğenirseniz: 16.000 TL
 ❌ Beğenmezseniz: hiçbir ödeme yok, hiçbir yükümlülük yok.
 
+(Not: Alan adı ve hosting ücretleri 16.000 TL'ye dahil değildir; dilerseniz kurulumunda yardımcı oluruz.)
+
 Metinleri, fotoğrafları ve renkleri sizin isteğinize göre düzenleriz. İncelemek ister misiniz?
 
 [Adınız]
@@ -150,7 +160,7 @@ AES Network · [Telefonunuz]
 
 ## Göndermeden önce karar vermeniz gerekenler
 
-1. **16.000 TL'ye neler dahil?** Alan adı (ör. .com.tr), hosting ve sonraki güncellemeler fiyata dahil mi, yıllık ücret var mı? Metin şu an bunu belirtmiyor.
+1. ~~16.000 TL'ye neler dahil?~~ **Karar verildi:** Alan adı ve hosting dahil değil. Bu not tüm mesajlara eklendi.
 2. **Demo linki:** Siteleri müşteriye göstermek için bir yere yüklemek gerekiyor (ör. GitHub Pages / Netlify). İsterseniz ayarlayabilirim.
 3. **Boss Pet Shop**'un telefonu bulunamadı; mesaj Instagram'dan ya da elden iletilmeli.
 4. Ticari mesajlar için İYS/6563 sayılı kanun: ilk temasın kısa, kişiye özel ve tek seferlik olması, "istemiyorum" diyenlere tekrar yazılmaması önerilir.
