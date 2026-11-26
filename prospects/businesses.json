@@ -1,0 +1,97 @@
+[
+ {
+  "slug": "vetcorner-veteriner",
+  "name": "Vetcorner Veteriner Kliniği", "short": "Vetcorner", "kind": "Veteriner Kliniği",
+  "phone": "0212 871 05 54",
+  "address": "Cumhuriyet Mah., Atatürk Bulvarı, Beylikdüzü / İstanbul",
+  "hours": "Randevu için arayın",
+  "hero_icon": "steth",
+  "theme": {"c1": "#0f766e", "c2": "#14b8a6", "bg": "#f3faf8", "ink": "#0f2a27"},
+  "tagline": "Dostunuzun sağlığı, köşedeki güvencede.",
+  "intro": "Kedi ve köpeklerin muayenesinden aşı takibine kadar, Cumhuriyet Mahallesi'ndeki kliniğimizde dostlarınıza özenle bakıyoruz.",
+  "about": "Vetcorner, Beylikdüzü'nde evcil hayvan sahiplerine yakın, ulaşılabilir ve güvenilir bir veteriner kliniği olmayı hedefler. Her hastamızı ailemizin bir parçası gibi görüyor, tedavi sürecini sahibine açıkça anlatıyoruz.",
+  "services": [
+   {"icon": "steth", "title": "Genel Muayene", "text": "Düzenli sağlık kontrolü ve hastalık tanısı."},
+   {"icon": "syringe", "title": "Aşılama", "text": "Yavru ve yetişkin aşı takvimi takibi."},
+   {"icon": "heart", "title": "Kısırlaştırma", "text": "Planlı operasyon ve operasyon sonrası bakım."},
+   {"icon": "paw", "title": "Parazit Uygulamaları", "text": "İç ve dış parazit koruması."}
+  ],
+  "why": ["Atatürk Bulvarı üzerinde kolay ulaşım", "Tedaviyi adım adım anlatan hekimler", "Kedi ve köpeklere özel ilgi", "Telefonla hızlı randevu"]
+ },
+ {
+  "slug": "hermes-veteriner",
+  "name": "Beylikdüzü Hermes Veteriner Kliniği", "short": "Hermes Veteriner", "kind": "Veteriner Kliniği",
+  "phone": "0212 924 19 17",
+  "address": "Adnan Kahveci Mah., Esentepe Caddesi, Beylikdüzü / İstanbul",
+  "hours": "Akşam 23:00'e kadar açık",
+  "hero_icon": "heart",
+  "theme": {"c1": "#4338ca", "c2": "#7c3aed", "bg": "#f5f5ff", "ink": "#1e1b3a"},
+  "tagline": "Gece geç saate kadar <em>yanınızdayız</em>.",
+  "intro": "Adnan Kahveci'de, iş çıkışı bile ulaşabileceğiniz bir veteriner kliniği. Muayene, aşı ve tedavi için bize uğrayın.",
+  "about": "Hermes Veteriner Kliniği, Beylikdüzü'nde akşam saatlerinde de hizmet vererek yoğun çalışan hayvan sahiplerinin işini kolaylaştırır. Dostunuzun ihtiyacına göre muayene, aşı ve tedavi planı hazırlarız.",
+  "services": [
+   {"icon": "steth", "title": "Muayene & Teşhis", "text": "Kapsamlı fiziksel muayene ve tanı."},
+   {"icon": "syringe", "title": "Aşı Takvimi", "text": "Kedi ve köpekler için düzenli aşılama."},
+   {"icon": "heart", "title": "Cerrahi", "text": "Kısırlaştırma ve planlı operasyonlar."},
+   {"icon": "clock", "title": "Akşam Saatleri", "text": "23:00'e kadar ulaşabileceğiniz klinik."}
+  ],
+  "why": ["Akşam geç saate kadar açık", "Esentepe Caddesi'nde merkezi konum", "Deneyimli veteriner hekim kadrosu", "Sıcak ve sakin klinik ortamı"]
+ },
+ {
+  "slug": "boss-pet-shop",
+  "name": "Boss Pet Shop", "short": "Boss Pet Shop", "kind": "Pet Shop & Kuaför",
+  "phone": null,
+  "address": "Barış Mah., Samsun Cad. No:14/6, Beylikdüzü / İstanbul",
+  "hours": "Her sabah 09:00'da açık",
+  "hero_icon": "bone",
+  "theme": {"c1": "#b45309", "c2": "#f59e0b", "bg": "#fffaf2", "ink": "#2b1d0e"},
+  "tagline": "Dostunuzun <em>patronu</em> olduğu yer.",
+  "intro": "Mama, aksesuar ve bakım ürünleri bir arada. Barış Mahallesi'nde, kedi ve köpek dostlarınız için seçkin ürünler ve pet kuaför hizmeti.",
+  "about": "Boss Pet Shop, Beylikdüzü'nde evcil hayvan sahiplerinin ihtiyaç duyduğu ürünleri tek çatı altında toplar. Hangi mamanın dostunuza uygun olduğunu birlikte seçer, bakımını uzman ellerle yaparız.",
+  "services": [
+   {"icon": "bag", "title": "Mama & Ödül", "text": "Kedi ve köpekler için kaliteli mama seçenekleri."},
+   {"icon": "scissors", "title": "Pet Kuaför", "text": "Tıraş, yıkama, tırnak ve tüy bakımı."},
+   {"icon": "bone", "title": "Oyuncak & Aksesuar", "text": "Tasma, yatak, oyuncak ve daha fazlası."},
+   {"icon": "heart", "title": "Doğru Ürün Danışmanlığı", "text": "Dostunuza uygun ürünü birlikte seçelim."}
+  ],
+  "why": ["Samsun Caddesi'nde kolay ulaşım", "Mama ve bakım tek adreste", "Güler yüzlü, bilgili ekip", "Kuaför ve ürünler aynı adreste"]
+ },
+ {
+  "slug": "epati-petshop",
+  "name": "Epati Petshop Beylikdüzü", "short": "Epati Petshop", "kind": "Pet Shop",
+  "phone": "0531 568 61 58",
+  "address": "Kavaklı Mah., Çağ Sokak No:3/2, Beylikdüzü / İstanbul",
+  "hours": "Sipariş için WhatsApp'tan yazın",
+  "hero_icon": "paw",
+  "theme": {"c1": "#db2777", "c2": "#f472b6", "bg": "#fff6fa", "ink": "#3a1027"},
+  "tagline": "Kavaklı'nın <em>patili</em> dükkânı.",
+  "intro": "Kedi, köpek, kuş ve balık dostlarınız için mama ve ihtiyaç ürünleri. WhatsApp'tan yazın, siparişinizi hazırlayalım.",
+  "about": "Epati Petshop, Kavaklı Mahallesi'nde komşularına yakın, samimi bir pet shop. Dostunuzun ihtiyacı neyse, bir mesaj uzağınızdayız.",
+  "services": [
+   {"icon": "bag", "title": "Kedi & Köpek Maması", "text": "Popüler markalar ve özel diyet mamaları."},
+   {"icon": "fish", "title": "Kuş & Akvaryum", "text": "Yem, kafes ve akvaryum malzemeleri."},
+   {"icon": "bone", "title": "Aksesuar", "text": "Oyuncak, tasma, kum ve bakım ürünleri."},
+   {"icon": "wa", "title": "WhatsApp Sipariş", "text": "Yazın, hazırlayalım; gelip alın."}
+  ],
+  "why": ["Kavaklı'da mahallenizin pet shop'u", "WhatsApp ile hızlı sipariş", "Uygun fiyat, samimi hizmet", "Her türden dost için ürün"]
+ },
+ {
+  "slug": "beylikduzu-pet-kuafor",
+  "name": "Beylikdüzü Pet Kuaför", "short": "Beylikdüzü Pet Kuaför", "kind": "Pet Kuaför",
+  "phone": "0538 343 42 50",
+  "address": "Barış Mah., Beyaz City AVM No:36, Beylikdüzü / İstanbul",
+  "hours": "Randevu ile çalışıyoruz",
+  "hero_icon": "scissors",
+  "theme": {"c1": "#0369a1", "c2": "#38bdf8", "bg": "#f3f9fd", "ink": "#0c2333"},
+  "tagline": "Mis gibi kokan, <em>mutlu</em> dostlar.",
+  "intro": "Kedi ve köpekler için yıkama, tıraş ve bakım. Beyaz City AVM'de, stressiz ve özenli bir bakım deneyimi.",
+  "about": "Beylikdüzü Pet Kuaför'de her dostumuzu sakin bir ortamda, acele etmeden bakıma alıyoruz. Irkına ve tüy yapısına uygun ürünlerle, sahibinin istediği modelde tıraş yapıyoruz.",
+  "services": [
+   {"icon": "bath", "title": "Yıkama & Kurutma", "text": "Tüy tipine uygun şampuan ve bakım."},
+   {"icon": "scissors", "title": "Model Tıraş", "text": "Irka özel ve isteğe göre kesim."},
+   {"icon": "paw", "title": "Tırnak & Kulak", "text": "Tırnak kesimi ve kulak temizliği."},
+   {"icon": "heart", "title": "Kedi Bakımı", "text": "Kedilere özel, sakin bakım seansları."}
+  ],
+  "why": ["Beyaz City AVM'de kolay otopark", "Randevulu, beklemesiz hizmet", "Stressiz ve nazik bakım", "WhatsApp'tan hızlı randevu"]
+ }
+]
